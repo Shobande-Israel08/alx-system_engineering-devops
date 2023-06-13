@@ -1,3 +1,1 @@
-prints “Hello, World”
-displays a confused smiley
-Display the content of the /etc/passwd file.
+0x02. Shell, I/O Redirections and filters.
