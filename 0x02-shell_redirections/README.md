@@ -1,1 +1,3 @@
-0x02-shell i/o redirections file
+prints “Hello, World”
+displays a confused smiley
+Display the content of the /etc/passwd file.
